@@ -2,4 +2,5 @@ pip
 scrapy
 scrapyd:1.2.0
 scrapy-redis
-logparser>=0.8.2
+logparser
+Twisted
